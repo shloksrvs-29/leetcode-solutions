@@ -51,4 +51,12 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | ------- |
 | [0100-same-tree](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
