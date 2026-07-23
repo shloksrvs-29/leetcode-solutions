@@ -9,6 +9,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
