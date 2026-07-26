@@ -59,6 +59,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -71,9 +72,11 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
