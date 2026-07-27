@@ -14,10 +14,12 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -34,6 +36,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0104-maximum-depth-of-binary-tree](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -42,6 +45,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0104-maximum-depth-of-binary-tree](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -50,11 +54,13 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0104-maximum-depth-of-binary-tree](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Array
 |  |
 | ------- |
@@ -79,4 +85,8 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
