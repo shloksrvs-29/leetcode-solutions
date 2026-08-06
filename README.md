@@ -21,6 +21,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0141-linked-list-cycle](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3731-find-missing-elements](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -87,6 +88,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0704-binary-search) |
@@ -100,6 +102,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0035-search-insert-position](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0704-binary-search) |
 ## Monotonic Stack
@@ -111,6 +114,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | ------- |
 | [0067-add-binary](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -118,6 +122,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -150,6 +155,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
