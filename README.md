@@ -115,6 +115,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0067-add-binary](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
