@@ -85,6 +85,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0035-search-insert-position](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -98,6 +99,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0704-binary-search) |
 ## Monotonic Stack
