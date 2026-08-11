@@ -83,6 +83,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -158,6 +159,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -189,4 +191,8 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
