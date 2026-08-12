@@ -171,6 +171,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0242-valid-anagram](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0504-base-7) |
+| [0796-rotate-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -204,4 +205,8 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
