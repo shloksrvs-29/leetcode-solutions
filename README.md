@@ -25,6 +25,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0268-missing-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -162,6 +163,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0504-base-7](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0504-base-7) |
 | [0796-rotate-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
