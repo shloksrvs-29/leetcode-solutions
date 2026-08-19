@@ -230,4 +230,8 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
