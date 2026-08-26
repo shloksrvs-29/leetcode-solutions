@@ -245,4 +245,5 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0181-employees-earning-more-than-their-managers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+| [0511-game-play-analysis-i](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
