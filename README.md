@@ -248,5 +248,6 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0196-delete-duplicate-emails](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
