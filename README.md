@@ -52,6 +52,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0144-binary-tree-preorder-traversal](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Tree
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0415-add-strings](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0504-base-7) |
 | [0796-rotate-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0796-rotate-string) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1903-largest-odd-number-in-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
