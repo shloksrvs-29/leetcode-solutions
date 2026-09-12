@@ -1,21 +1,22 @@
 class Solution {
-    public ListNode oddEvenList(ListNode head) {
-        ListNode curr = head;
-        if (curr == null || curr.next == null) return curr;
+    public ListNode oddEvenList(ListNode head) { 
+        
+        if (head == null || head.next == null) return head;
 
-        ListNode slow = curr;
-        ListNode fast = curr.next;
-        ListNode fastHead = fast;
+        ListNode odd = head;
+        ListNode even = head.next;
+        ListNode evenhead = head.next;
 
-        while (fast != null && fast.next != null) {
-            slow.next = fast.next;
-            slow = slow.next;
+        while (even != null && even.next != null)
+        {
+            odd.next = odd.next.next;
+            even.next = even.next.next;
 
-            fast.next = slow.next;
-            fast = fast.next;
+            odd = odd.next;
+            even = even.next;
         }
 
-        slow.next = fastHead;
-        return curr;
+        odd.next = evenhead;
+        return head;
     }
 }
