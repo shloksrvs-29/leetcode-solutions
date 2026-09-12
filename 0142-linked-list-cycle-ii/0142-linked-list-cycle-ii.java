@@ -11,30 +11,23 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        if (head == null || head.next == null) {
-            return null;
-        }
-        
-        ListNode slow = head;
-        ListNode fast = head;
-        
-        // Phase 1: Determine if a cycle exists using Floyd's algorithm
-        while (fast != null && fast.next != null) {
-            slow = slow.next;
+        ListNode slow=head;
+        ListNode fast= head;
+        while (fast!=null && fast.next!=null)
+        {
+            slow= slow.next;
             fast = fast.next.next;
-            if (slow == fast) {
-                // Cycle detected, now find the entry point
-                ListNode ptr1 = head;
-                ListNode ptr2 = slow;
-                while (ptr1 != ptr2) {
-                    ptr1 = ptr1.next;
-                    ptr2 = ptr2.next;
+            if (slow==fast)
+            {
+                slow =head;
+                while (slow!=fast)
+                {
+                    slow=slow.next;
+                    fast=fast.next;
                 }
-                return ptr1;
+                return fast;
             }
         }
-        
-        // No cycle
         return null;
     }
 }
