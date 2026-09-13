@@ -6,6 +6,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -153,6 +154,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0263-ugly-number) |
@@ -189,6 +191,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0206-reverse-linked-list) |
