@@ -35,6 +35,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0349-intersection-of-two-arrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -206,6 +207,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0003-longest-substring-without-repeating-characters](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -223,6 +225,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0504-base-7](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0504-base-7) |
 | [0796-rotate-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1903-largest-odd-number-in-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
