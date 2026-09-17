@@ -108,6 +108,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -137,6 +138,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0035-search-insert-position) |
@@ -295,6 +297,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
