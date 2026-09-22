@@ -304,6 +304,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0595-big-countries](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0607-sales-person) |
+| [0619-biggest-single-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0619-biggest-single-number) |
 ## Divide and Conquer
 |  |
 | ------- |
