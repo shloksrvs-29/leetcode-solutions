@@ -39,6 +39,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0349-intersection-of-two-arrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1207-unique-number-of-occurrences](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -136,6 +137,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0628-maximum-product-of-three-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
