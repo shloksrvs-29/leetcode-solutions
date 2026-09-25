@@ -69,6 +69,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -240,6 +241,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -336,4 +338,8 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
