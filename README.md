@@ -23,6 +23,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0328-odd-even-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0145-binary-tree-postorder-traversal](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0628-maximum-product-of-three-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
