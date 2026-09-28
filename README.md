@@ -77,6 +77,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0145-binary-tree-postorder-traversal](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Tree
 |  |
@@ -255,6 +256,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0796-rotate-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -345,4 +347,5 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
