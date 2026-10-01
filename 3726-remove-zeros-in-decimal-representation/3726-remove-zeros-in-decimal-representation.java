@@ -1,14 +1,20 @@
 class Solution {
     public long removeZeros(long n) {
-        String s= Long.toString(n);
-        String ans="";
-        for(int i=0;i<s.length();i++)
+        ArrayList<Long> list = new ArrayList<>();
+        while(n!=0)
         {
-            if (s.charAt(i)!='0')
-            {
-                ans=ans+s.charAt(i);
-            }
+        long a= n%10;
+        if (a!=0)
+        {
+            list.add(a);
         }
-        return Long.parseLong(ans);
+        n=n/10;
+        }
+        long ans=0;
+        for (int i=list.size()-1;i>=0;i--)
+        {
+            ans=ans*10+list.get(i);
+        }
+        return ans;
     }
 }
