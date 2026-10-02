@@ -42,6 +42,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1207-unique-number-of-occurrences](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
+| [1512-number-of-good-pairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -147,6 +148,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -190,6 +192,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0507-perfect-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1512-number-of-good-pairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -344,6 +347,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Geometry
 |  |
