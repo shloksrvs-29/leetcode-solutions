@@ -52,6 +52,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0086-partition-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0086-partition-list) |
@@ -252,6 +253,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0067-add-binary) |
@@ -292,6 +294,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0118-pascals-triangle) |
 ## Memoization
@@ -362,4 +365,8 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0020-valid-parentheses](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
