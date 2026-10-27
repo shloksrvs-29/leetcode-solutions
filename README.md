@@ -35,6 +35,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0205-isomorphic-strings](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -149,6 +150,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0189-rotate-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -229,6 +231,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0088-merge-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
@@ -381,6 +384,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Geometry
@@ -417,4 +421,8 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
