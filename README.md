@@ -143,6 +143,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -328,6 +329,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0118-pascals-triangle) |
 ## Memoization
@@ -379,6 +381,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0148-sort-list) |
 | [0324-wiggle-sort-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0324-wiggle-sort-ii) |
 ## Merge Sort
