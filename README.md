@@ -161,6 +161,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0560-subarray-sum-equals-k](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0733-flood-fill) |
 | [1004-max-consecutive-ones-iii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -349,6 +350,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
