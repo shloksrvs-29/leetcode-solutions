@@ -168,6 +168,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [1004-max-consecutive-ones-iii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -197,6 +198,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0540-single-element-in-a-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Monotonic Stack
 |  |
@@ -428,6 +430,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | ------- |
 | [0463-island-perimeter](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
