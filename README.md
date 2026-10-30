@@ -143,6 +143,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -210,6 +211,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -431,6 +433,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0867-transpose-matrix) |
