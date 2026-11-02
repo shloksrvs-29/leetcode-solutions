@@ -114,6 +114,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0637-average-of-levels-in-binary-tree](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0637-average-of-levels-in-binary-tree](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Array
 |  |
 | ------- |
@@ -455,4 +457,12 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Graph Theory
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
