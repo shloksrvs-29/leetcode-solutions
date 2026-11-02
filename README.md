@@ -178,6 +178,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [1572-matrix-diagonal-sum](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -442,6 +443,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0867-transpose-matrix](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Quickselect
 |  |
 | ------- |
