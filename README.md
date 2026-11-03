@@ -190,6 +190,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -241,6 +242,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
