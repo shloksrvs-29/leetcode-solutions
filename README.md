@@ -188,6 +188,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [1672-richest-customer-wealth](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
