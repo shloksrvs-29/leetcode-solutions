@@ -195,6 +195,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3731-find-missing-elements](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -300,6 +301,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
 | ------- |
@@ -387,6 +389,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
