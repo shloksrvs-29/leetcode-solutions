@@ -22,6 +22,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0237-delete-node-in-a-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Hash Table
@@ -238,6 +239,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0504-base-7](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
