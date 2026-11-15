@@ -242,6 +242,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1518-water-bottles](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2409-count-days-spent-together) |
@@ -346,6 +347,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0067-add-binary](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1518-water-bottles](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1518-water-bottles) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
