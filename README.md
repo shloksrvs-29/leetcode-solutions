@@ -185,6 +185,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [1470-shuffle-the-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -243,6 +244,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [1401-circle-and-rectangle-overlapping](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1518-water-bottles) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2409-count-days-spent-together) |
@@ -366,6 +368,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0053-maximum-subarray](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -390,6 +393,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [1004-max-consecutive-ones-iii](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
