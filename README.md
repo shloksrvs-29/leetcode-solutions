@@ -334,6 +334,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -351,6 +352,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [0867-transpose-matrix](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1518-water-bottles) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3726-remove-zeros-in-decimal-representation) |
