@@ -250,6 +250,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [2409-count-days-spent-together](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3099-harshad-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
