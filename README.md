@@ -248,6 +248,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [2469-convert-the-temperature](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3099-harshad-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/3099-harshad-number) |
