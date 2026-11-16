@@ -248,6 +248,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [2413-smallest-even-multiple](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -494,4 +495,8 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
