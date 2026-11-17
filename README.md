@@ -228,6 +228,7 @@ A collection of my LeetCode and DSA solutions with clean code, optimized approac
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/shloksrvs-29/leetcode-solutions/tree/master/0070-climbing-stairs) |
